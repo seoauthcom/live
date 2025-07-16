@@ -1,0 +1,1 @@
+// HistoricalChart.jsx content (abbreviated for display)
